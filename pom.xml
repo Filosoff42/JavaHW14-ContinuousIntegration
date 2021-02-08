@@ -46,12 +46,7 @@
                                 <limit>
                                     <counter>INSTRUCTION</counter>
                                     <value>COVEREDRATIO</value>
-                                    <minimum>1.0</minimum>
-                                </limit>
-                                <limit>
-                                    <counter>CLASS</counter>
-                                    <value>MISSEDCOUNT</value>
-                                    <maximum>0</maximum>
+                                    <minimum>100%</minimum>
                                 </limit>
                             </limits>
                         </rule>
